@@ -11,7 +11,7 @@ state = {
 	}
 
 	history = {
-		owner = SIG
+		owner = MAL
 		victory_points = { 12299 20 }
 		victory_points = { 14768 7 }
 		victory_points = { 14767 5 }

@@ -5,8 +5,7 @@ state={
 		4210 14911 14912 
 	}
 	history={
-		owner = WAT
-		add_core_of = WAT
+		owner = BRM
 		add_core_of = BRM
 		victory_points = {
 			14911 3

@@ -3,9 +3,8 @@ state={
 	name="STATE_1050"
 	
 	history = {
-		owner = PRK
-		add_core_of = PRK
-		add_claim_by = KOR
+		owner = KOR
+
 		buildings = {
 			infrastructure = 3
 			dockyard = 1

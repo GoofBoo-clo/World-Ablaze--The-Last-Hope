@@ -22,9 +22,6 @@ state = {
 			industrial_complex = 1
 			arms_factory = 1
 		}
-		TAL = {
-			set_province_controller = 10781
-		}
 	}
 	
 	provinces = {

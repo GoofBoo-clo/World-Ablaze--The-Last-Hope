@@ -5,8 +5,7 @@ state={
 		12363 14914 
 	}
 	history={
-		owner = MND
-		add_core_of = MND
+		owner = BRM
 		add_core_of = BRM
 		victory_points = { 12363 2 }
 		buildings = {

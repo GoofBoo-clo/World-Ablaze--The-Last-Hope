@@ -4,8 +4,7 @@ state={
 	name="STATE_1261"
 
 	history={
-		owner = CNF
-		add_core_of = CNF
+		owner = BRM
 		add_core_of = BRM
 		victory_points = {
 			3999 3

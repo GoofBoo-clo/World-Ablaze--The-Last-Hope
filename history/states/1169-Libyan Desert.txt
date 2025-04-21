@@ -9,8 +9,8 @@
 		buildings_max_level_factor=1.000
 		state_category=wasteland
 		history={
-			owner = HRL
+			owner = LBA
 			add_core_of = LBA
-			add_core_of = HRL
+			add_core_of = LBA
 		}
 	}

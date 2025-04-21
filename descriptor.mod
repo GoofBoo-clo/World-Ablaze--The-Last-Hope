@@ -1,11 +1,12 @@
 version="-"
 tags={
 	"Map"
-	"Translation"
-	"Gameplay"
+	"Alternative History"
 }
 replace_path="map/strategicregions"
 replace_path="map"
 replace_path="history/states"
-name="World Ablaze Test"
-supported_version="1.16.4"
+replace_path="common/ai_strategy"
+replace_path="history/units"
+name="Without Benelux"
+supported_version="1.16.2"

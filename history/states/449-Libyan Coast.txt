@@ -11,13 +11,13 @@ state={
 	}
 
 	history={
-		owner = HRL
+		owner = LBA
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 2
 			arms_factory = 1
 		}
-		add_core_of = HRL
+		add_core_of = LBA
 		add_core_of = LBA
 	}
 

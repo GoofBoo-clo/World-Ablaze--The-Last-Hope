@@ -3,21 +3,11 @@ state={
 	name="STATE_1054"
 	
 	history = {
-		owner = TAL
-		add_core_of = TAL
+		owner = AFG
 		add_core_of = AFG
 		victory_points = { 1948 1 }		#Zaranj
 		buildings = {
 			infrastructure = 2
-		}
-		
-		AFG = {
-			set_province_controller = 13751
-			set_province_controller = 13749
-			set_province_controller = 13754
-			set_province_controller = 13753
-			set_province_controller = 13756
-			set_province_controller = 2078
 		}
 	}
 	provinces={

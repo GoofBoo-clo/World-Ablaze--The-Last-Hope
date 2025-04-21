@@ -4,11 +4,6 @@ state={
 	history = {
 		owner = SOM
 		add_core_of = SOM
-		add_core_of = SHB
-		SHB = {
-			set_province_controller = 10818
-			set_province_controller = 1966
-		}
 		buildings = {
 			infrastructure = 1
 			10818 = {

@@ -9,7 +9,7 @@ state={
 	history = {
 		owner = KOR
 		add_core_of = KOR
-		add_claim_by = PRK
+
 		victory_points = { 13692 30 }
 		victory_points = { 13691 15 }
 		buildings = {

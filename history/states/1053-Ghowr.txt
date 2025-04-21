@@ -5,12 +5,8 @@ state={
 	history = {
 		owner = AFG
 		add_core_of = AFG
-		add_core_of = TAL
 		buildings = {
 			infrastructure = 2
-		}
-		TAL = {
-			set_province_controller = 13739
 		}
 	}
 	provinces={

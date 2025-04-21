@@ -13,9 +13,9 @@ state={
 	}
 	
 	history = {
-		owner = PRK
-		add_core_of = PRK
-		add_claim_by = KOR
+		owner = KOR
+		add_core_of = KOR
+
 		
 		buildings = {
 			infrastructure = 2

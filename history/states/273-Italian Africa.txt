@@ -9,8 +9,7 @@ state = {
 	}
 	
 	history = {
-		owner = HRL
-		add_core_of = HRL
+		owner = LBA
 		add_core_of = LBA
 		buildings = {
 			air_base = 1

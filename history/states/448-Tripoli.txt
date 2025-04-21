@@ -21,10 +21,10 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = HRL
+		add_core_of = LBA
 		add_core_of = LBA
 		
-		HRL = {
+		LBA = {
 			set_province_controller = 13264
 			set_province_controller = 1189
 			set_province_controller = 1118

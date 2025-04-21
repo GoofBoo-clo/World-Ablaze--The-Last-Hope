@@ -18,7 +18,7 @@ state={
 			anti_air_building = 4
 			power_plant = 3
 		}
-		add_claim_by = PRK
+
 		add_core_of = KOR
 
 		victory_points = {

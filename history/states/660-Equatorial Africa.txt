@@ -6,13 +6,8 @@ state={
 	history={
 		owner = CAR
 		add_core_of = CAR
-		add_core_of = CPC
 		buildings = {
 			infrastructure = 1
-		}
-		CPC= {
-			set_province_controller = 12719
-			set_province_controller = 3165
 		}
 	}
 

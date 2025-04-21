@@ -9,14 +9,14 @@ state={
 	}
 
 	history={
-		owner = PRK
+		owner = KOR
 		buildings = {
 			infrastructure = 2
 			11835 = { naval_base = 1 }
 		}
 		victory_points = { 11835 3 }
-		add_core_of = PRK
-		add_claim_by = KOR
+		add_core_of = KOR
+
 	}
 
 	provinces={

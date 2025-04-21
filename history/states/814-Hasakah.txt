@@ -7,9 +7,8 @@ state={
 	}
 	
 	history = {
-		owner = ROJ
+		owner = SYR
 		victory_points = { 1578 2 }	#Al-Hasakah
-		add_core_of = ROJ
 		add_core_of = SYR
 		buildings = {
 			infrastructure = 2

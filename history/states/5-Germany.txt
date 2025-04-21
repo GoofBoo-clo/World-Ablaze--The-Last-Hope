@@ -9,8 +9,8 @@ state = {
 	}
 	
 	history = {
-		owner = PLD
-		add_core_of = PLD
+		owner = POL
+		add_core_of = POL
 		victory_points = { 6375 2 } #Olsztyn
 		buildings = {
 			infrastructure = 3
