@@ -123,7 +123,6 @@ categories =  {
 	ruinsofcity = {
 		color = { 178 191 181 }
 		movement_cost = 1.05
-		attrition = 0.10
 		# combat_width = -0.45
 		combat_width = 38
 		combat_support_width = 20
@@ -153,7 +152,7 @@ categories =  {
 	}
 	
 	sintering = {
-		color = { 120 120 120 }
+		color = { 100 100 100 }
 		movement_cost = 1.2
 		ai_terrain_importance_factor = 8.0
 		combat_width = 80
@@ -180,7 +179,7 @@ categories =  {
 	}
 	
 	radioactive_forest = {
-	    color = { 112 145 130 }
+	    color = { 112 145 70 }
 		movement_cost = 1.15
 		attrition = 0.10
 		# combat_width = 48
@@ -3705,7 +3704,7 @@ terrain = {
 	terrain_1					= { type = forest			color = { 	1	 } texture = 4 } 
 	desert_mountain				= { type = hills			color = { 	2	 } texture = 3 }
 	desert						= { type = desert			color = { 	3	 } texture = 9 }
-	saltmarsh					= { type = desert			color = { 	23	 } texture = 4 } 
+	saltmarsh					= { type = desert			color = { 	23	 } texture = 12 } 
 		
 	terrain_4					= { type = forest			color = { 	4	 } texture = 5 }
 	terrain_5					= { type = plains	 		color = { 	5	 } texture = 0 }
@@ -3721,6 +3720,8 @@ terrain = {
 	forest_13					= { type = urban			color = { 	13	 } texture = 10 spawn_city = yes }
 	forest_14					= { type = lakes			color = { 	14	 } texture = 255 }
 	ocean_15					= { type = ocean			color = { 	15	 } texture = 9 } 
+	ruinsofcity                 = { type = urban            color = {   24   } texture = 10 spawn_city = yes }
+	sintering                   = { type = urban            color = {   25   } texture = 10 spawn_city = yes }
 		
 	snow_16						= { type = mountain			color = { 	16	 } texture = 11  perm_snow = yes }
 	plains_17					= { type = plains			color = { 	19	 } texture = 0  perm_snow = yes }
