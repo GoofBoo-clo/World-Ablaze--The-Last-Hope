@@ -13,7 +13,6 @@ state={
 		buildings = {
 			infrastructure = 3
 			synthetic_refinery = 2
-			energy_farm = 1
 		}
 	}
 	provinces={

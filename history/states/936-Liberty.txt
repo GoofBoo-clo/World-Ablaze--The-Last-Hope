@@ -16,7 +16,6 @@ state = {
 		buildings = {
 			infrastructure = 4
 			air_base = 1
-			office_park = 1
 		}
 	}
 	provinces = {

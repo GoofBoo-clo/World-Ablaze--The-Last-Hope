@@ -7,7 +7,6 @@ state={
 		victory_points = { 1445 15 }#Lexington
 		buildings = {
 			infrastructure = 4
-			power_plant = 1
 		}
 	}
 	provinces={

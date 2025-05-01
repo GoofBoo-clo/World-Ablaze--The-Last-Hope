@@ -14,7 +14,6 @@ state = {
 			arms_factory = 1
 			7214 = { coastal_bunker = 1 }
 			11959 = { coastal_bunker = 1 }
-			power_plant = 3
 		}
 		victory_points = {
 			13968 15

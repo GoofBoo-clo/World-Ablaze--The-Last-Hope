@@ -8,7 +8,6 @@ state={
 		victory_points = { 3733 8 }			#Rochester
 		buildings = {
 			infrastructure = 3
-			office_park = 1
 			industrial_complex = 1
 			nuclear_reactor = 1
 		}

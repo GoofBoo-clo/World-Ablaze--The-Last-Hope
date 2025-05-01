@@ -18,7 +18,6 @@ state=
 			infrastructure = 2
 			industrial_complex = 1
 			air_base = 1
-			energy_farm = 2
 		}
 		victory_points = { 12071 5 }
 		victory_points = { 11974 3 }

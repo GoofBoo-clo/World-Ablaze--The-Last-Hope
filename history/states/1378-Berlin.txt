@@ -28,7 +28,6 @@ state={
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
-			office_park = 4
 		}
 	}
 	manpower=3850809

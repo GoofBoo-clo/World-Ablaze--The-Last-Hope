@@ -17,7 +17,6 @@ state = {
 			infrastructure = 2
 			industrial_complex = 3
 			arms_factory = 1
-			office_park = 3
 			air_base = 4
 		}
 	}

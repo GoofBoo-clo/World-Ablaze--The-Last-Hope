@@ -10,7 +10,6 @@ state = {
 		victory_points = { 13884 20 }	#Salt Lake City
 		buildings = {
 			infrastructure = 3
-			office_park = 2
 		}
 	}
 	

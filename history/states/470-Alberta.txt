@@ -15,7 +15,6 @@ state={
 			infrastructure = 3
 			industrial_complex = 1
 			air_base = 2
-			power_plant = 1
 		}
 		victory_points = { 1262 10 }	#Calgary
 		victory_points = { 3010 5 }		#Edmonton

@@ -17,7 +17,6 @@ state={
 			infrastructure = 5
 			air_base = 4
 			industrial_complex = 5
-			office_park = 3 #Scam Offices :)
 			arms_factory = 1
 		}
 		victory_points = { 2086 40 } #Delhi

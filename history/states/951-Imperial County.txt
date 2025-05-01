@@ -12,7 +12,6 @@ state={
 		add_core_of = CAL
 		buildings = {
 			infrastructure = 3
-			energy_farm = 1
 		}
 	}
 	provinces={

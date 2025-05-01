@@ -3,9 +3,9 @@
 		name="STATE_832"
 
 		history={
-			owner = NGK
+			owner = AZR
 			add_core_of = AZR
-			add_core_of = NGK
+			add_core_of = ARM
 			buildings = {
 				infrastructure = 2
 				industrial_complex = 2

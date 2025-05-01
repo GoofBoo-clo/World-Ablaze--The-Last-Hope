@@ -9,7 +9,6 @@ state={
 		add_claim_by = CHI
 		buildings = {
 			infrastructure = 3
-			power_plant = 2
 		}
 		victory_points = {
 			9987 3

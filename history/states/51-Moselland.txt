@@ -19,7 +19,6 @@ state = {
 			air_base = 3
 			industrial_complex = 3
 			arms_factory = 2
-			power_plant = 2
 		}
 	}
 	

@@ -23,7 +23,6 @@ state = {
 			air_base = 4
 			11914 = { coastal_bunker = 1 }
 			1175 = { coastal_bunker = 1 }
-			4096 = { coastal_bunker = 1 }
 			9955 = { coastal_bunker = 1 }
 			11914 = {
 				naval_base = 2

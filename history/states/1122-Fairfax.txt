@@ -9,7 +9,6 @@ state = {
 		add_core_of = USA
 		buildings = {
 			infrastructure = 3
-			office_park = 3
 			nuclear_reactor = 1
 		}
 	}

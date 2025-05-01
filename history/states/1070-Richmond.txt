@@ -10,7 +10,6 @@ state = {
 		victory_points = { 3823 25 }	#Richmond
 		buildings = {
 			infrastructure = 4
-			office_park = 1
 		}
 	}
 	

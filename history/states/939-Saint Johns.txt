@@ -12,7 +12,6 @@ state={
 			1572 = { naval_base = 2 }
 			arms_factory = 1
 			industrial_complex = 3
-			office_park = 2
 		}
 	}
 	provinces={

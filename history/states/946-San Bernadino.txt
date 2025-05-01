@@ -13,7 +13,6 @@ state={
 		victory_points = { 12303 20 }		#San Bernadino
 		buildings = {
 			infrastructure = 3
-			energy_farm = 2
 		}
 	}
 	provinces={

@@ -15,7 +15,6 @@ state={
 		add_core_of = RAJ
 		buildings = {
 			infrastructure = 2
-			energy_farm = 2
 		}
 		victory_points = {
 			12844 2 #Bikaner

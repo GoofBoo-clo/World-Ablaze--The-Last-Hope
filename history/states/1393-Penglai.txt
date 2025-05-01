@@ -12,7 +12,6 @@ state={
 		add_claim_by = CHI
 		buildings = {
 			infrastructure = 2
-			power_plant = 1
 			1104 = {
 				naval_base = 1
 

@@ -10,7 +10,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			power_plant = 1
 		}
 	}
 	provinces={

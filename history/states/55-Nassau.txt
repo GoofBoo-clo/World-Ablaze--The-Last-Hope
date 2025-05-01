@@ -23,7 +23,6 @@ state={
 			industrial_complex = 3
 			arms_factory = 2
 			air_base = 2
-			office_park = 1
 		}
 
 	}
