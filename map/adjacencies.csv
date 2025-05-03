@@ -140,53 +140,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 5412;7678;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus
 8282;8308;;-1;-1;-1;-1;-1;KERCH_STRAIT;Kerch
 5960;5984;;-1;-1;-1;-1;-1;MALACCA_STRAIT;Malacca
-12860;7455;impassable;-1;-1;-1;-1;-1;;Bhutan-India Border
-12860;12730;impassable;-1;-1;-1;-1;-1;;Bhutan-India Border
-5083;10792;impassable;-1;-1;-1;-1;-1;;Brazil-Colombia Border
-4980;4934;impassable;-1;-1;-1;-1;-1;;Brazil-France Border
-5008;8107;impassable;-1;-1;-1;-1;-1;;Brazil-Guyana Border
-5214;8107;impassable;-1;-1;-1;-1;-1;;Brazil-Guyana Border
-5214;8107;impassable;-1;-1;-1;-1;-1;;Brazil-Guyana Border
-13583;1485;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-13583;4653;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-7643;13585;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-7643;10495;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-7643;4653;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-10468;10096;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-10468;12445;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-10439;10412;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-10439;12445;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-10439;9931;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-1506;10343;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-1506;10412;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-3941;10343;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-6958;10343;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-13342;11859;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-13342;13295;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-13342;13298;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-11795;13238;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-11795;13239;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-13841;7845;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-10602;13842;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-10602;7845;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-10602;13840;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-13841;3781;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-12676;3781;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-12676;1832;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-4838;1832;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-7667;11763;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-7667;13372;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-1432;13361;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-1601;13361;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-6745;9697;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-768;9697;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-768;13364;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-766;13364;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-766;9697;impassable;-1;-1;-1;-1;-1;;Ashevill-Oconee
-7106;1129;impassable;-1;-1;-1;-1;-1;;Pathankot-Kashmir
-7106;7316;impassable;-1;-1;-1;-1;-1;;Pathankot-Kashmir
-13928;13927;impassable;-1;-1;-1;-1;-1;;Kishtwar-Kashmir
-13920;13927;impassable;-1;-1;-1;-1;-1;;Kishtwar-Kashmir
 14746;14747;sea;2946;-1;-1;-1;-1;;Chinese-Sprats
 14747;14749;sea;2946;-1;-1;-1;-1;;Chinese-Sprats
 14753;14752;sea;2971;-1;-1;-1;-1;;Chinese-Sprats

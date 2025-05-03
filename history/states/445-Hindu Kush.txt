@@ -15,11 +15,10 @@ state={
 
 		}
 		victory_points = { 7903 2 }		#Dera Ghazi Khan
-		victory_points = { 10813 1 }		#Baiker
 	}
 
 	provinces={
-		1107 4990 7847 7903 10813 15008
+		1107 4990 7847 7903 15008
 	}
 	manpower=3405100
 	buildings_max_level_factor=1.000
