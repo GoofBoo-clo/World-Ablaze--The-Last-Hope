@@ -11,9 +11,6 @@ state={
 		owner = HOL
 		add_core_of = HOL
 		victory_points = {
-			391 30 
-		}
-		victory_points = {
 			3211 15 
 		}
 		victory_points = {
@@ -21,7 +18,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 4
-			air_base = 5
 			industrial_complex = 5
 			arms_factory = 1
 			dockyard = 2
