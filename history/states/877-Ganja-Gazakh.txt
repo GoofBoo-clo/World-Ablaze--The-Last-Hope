@@ -2,7 +2,7 @@ state={
 	id=877
 	name="STATE_877"
 	provinces={
-		1539 11645 11674 6763
+		1539 11645 11674 6763 15069
 	}
 	resources = {
 		aluminium = 7
