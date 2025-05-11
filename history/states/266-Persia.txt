@@ -1,7 +1,7 @@
 state = {
 	id = 266
-	name = "STATE_266" #Tehran
-	manpower = 14876085
+	name = "STATE_266" #Tehran (NO)
+	manpower = 1576405
 	state_category = large_city
 	
 	resources = {
@@ -25,6 +25,6 @@ state = {
     }
 	
 	provinces = {
-		10837 7969 12818 8093 10922 15071 15063
+		7969 12818 8093 10922 15071 15063
 	}
 }

@@ -14264,7 +14264,7 @@
 14263;82;228;43;land;false;warsaw;1
 14264;112;42;235;land;false;forest;1
 14265;226;101;196;land;false;plains;1
-14266;180;116;235;land;false;plains;1
+14266;180;116;235;land;false;urban;1
 14267;195;69;236;land;false;plains;1
 14268;54;122;223;land;false;plains;1
 14269;25;140;220;land;false;plains;1
@@ -15074,3 +15074,15 @@
 15073;206;206;12;land;false;desert;7
 15074;184;229;100;land;false;plains;6
 15075;229;88;32;land;false;plains;7
+15076;255;243;76;land;false;desert;7
+15077;255;139;86;land;false;desert;1
+15078;255;15;83;land;false;desert;7
+15079;255;237;102;land;false;desert;7
+15080;221;57;42;land;false;urban;7
+15081;179;221;130;land;false;urban;7
+15082;221;99;90;land;false;tehran;7
+15083;221;221;70;land;false;tehran;7
+15084;224;177;69;land;false;hills;7
+15085;224;212;132;land;false;desert;7
+15086;203;11;224;land;false;mountain;7
+15087;255;157;112;land;false;desert;1
