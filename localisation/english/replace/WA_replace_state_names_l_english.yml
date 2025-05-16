@@ -264,7 +264,7 @@
  STATE_263: "Novgorod"
  STATE_264: "Kostroma"
  STATE_265: "Medveditsa"
- STATE_266: "Tehran"
+ STATE_266: "Semnan-Markazi"
  STATE_267: "Kabul"
  STATE_268:1 "Djibouti"
  STATE_269:1 "Somaliland"
@@ -1455,3 +1455,4 @@
  STATE_1433: "Wadi Rum"
  STATE_1434: "Eastern Transylvania"
  STATE_1435: "Gigant"
+ STATE_1436: "Tehran"

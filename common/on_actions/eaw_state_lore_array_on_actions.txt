@@ -1,0 +1,9 @@
+# Array that contains state id of states that has lore #
+
+on_actions = {
+	on_startup = {
+		effect = {
+			add_to_array = { global.states_with_lore = 1339.id }
+		}
+	}
+}
