@@ -4,6 +4,7 @@ on_actions = {
 	on_startup = {
 		effect = {
 			add_to_array = { global.states_with_lore = 1339.id }
+			add_to_array = { global.states_with_lore = 1285.id }
 		}
 	}
 }

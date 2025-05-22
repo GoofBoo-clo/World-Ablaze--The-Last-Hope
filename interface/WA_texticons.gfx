@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_Moscow_state_lore"
+		texturefile = "gfx/texticons/Moscow_state_lore.tga"
+		legacy_lazy_load = no
+			}
+}
