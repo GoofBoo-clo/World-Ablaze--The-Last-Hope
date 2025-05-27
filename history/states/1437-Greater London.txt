@@ -1,0 +1,23 @@
+state = {
+	id = 1437
+	name = "STATE_1437"
+	manpower = 3268700
+	state_category = urban
+
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		victory_points = { 15198 13 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 2
+			15187 = { naval_base = 3 }
+		}
+	}
+	
+	provinces = {
+		15187 9239 15198 15197 15202 15199 11221
+	}
+}
