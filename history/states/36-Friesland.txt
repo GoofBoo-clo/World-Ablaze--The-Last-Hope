@@ -1,37 +1,27 @@
 state={
 	id=36
 	name="STATE_36"
-
-	history={
+	history = {
 		owner = HOL
 		add_core_of = HOL
-		victory_points = {
-			6241 3
-		}
-		victory_points = {
-			9363 1 
-		}
-		victory_points = {
-			14266 5 
-		}
+		victory_points = { 6241 3 }
+		victory_points = { 9363 1 }
+		victory_points = { 14266 5 }
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
+			air_base = 3
 			industrial_complex = 2
-			6336 = {
-				naval_base = 3
-
-			}
-
+			arms_factory = 1
 		}
-
 	}
-
-	provinces={
-		6241 6286 9363 9403 14266 14267 
-	}
-	manpower=1876550
-	buildings_max_level_factor=1.000
-	state_category=city
-
-	local_supplies=14.0 
-}
+		resources={
+			steel=19.000
+		}
+		provinces={
+			6241 6286 9363 9403 14266 14267
+		}
+		manpower=1678450
+		buildings_max_level_factor=1.000
+		state_category=city
+		local_supplies=0.000
+	}	
