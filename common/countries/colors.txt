@@ -1111,6 +1111,10 @@ KUR = {
 	color = rgb { 234 179 30 }
 	color_ui = rgb { 255 153 0 }	
 }
+ALA = {
+    color = rgb { 127 185 126 }
+    color_ui = rgb { 127 185 126 }
+}
 
 
 

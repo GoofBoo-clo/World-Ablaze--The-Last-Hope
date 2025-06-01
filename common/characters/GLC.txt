@@ -1,0 +1,15 @@
+characters = {
+	GLC_feihoo = {
+		name = GLC_feihoo
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GLC/portrait_GLC_feihoo.dds"
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2055.10.20"
+			desc = "GLC_feihoo_desc"
+		}
+	}
+}

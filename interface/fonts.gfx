@@ -1,0 +1,34 @@
+bitmapfonts = {
+
+	bitmapfont = {
+		name = "roboto_medium"
+		path = "gfx/fonts/RobotoCondensed-Medium"
+		color = 0xffb2c9c2
+		textcolors = {
+			W = { 255 255 255 } # White
+			B = { 47 138 135 }  # Blue
+			G = { 133 234 142 } # Green
+			R = { 224 130 130 } # Red
+			g = { 176 176 176 } # Gray
+			Y = { 220 218 80 }  # Yellow
+			H = { 220 218 80 }  # Duplicate yellow from basegame
+			O = { 234 161 14 }  # Orange
+			C = { 253 100 144 } # Hot Pink
+			P = { 169 27 79 }   # Pink
+			r = { 132 50 0 }    # Rust Brown
+			w = { 211 201 0 }   # Gold
+			e = { 146 0 0 }     # Dark Red
+			p = { 204 0 204 }   # Magenta
+			j = { 153 102 51 }  # Brown
+			S = { 255 128 114 } # Salmon
+			x = { 225 0 0 }     # Über-red
+			y = { 0 225 0 }     # Über-green
+			z = { 22 88 255 }   # Über-blue
+			l = { 147 112 219 } # Lavender
+			n = { 60 180 60 }   # Dark Green
+			q = { 65 65 65 }    # Darker Grey
+			Q = { 0 84 142 }    # Prussian Blue
+			I = { 116 71 209 }  # Deep Purple (from TNO)
+	   }
+	}
+}

@@ -4,8 +4,9 @@ state={
 	name="STATE_1292"
 
 	history={
-		owner = SPR
+		owner = ALA
 		add_core_of = SPR
+		add_core_of = ALA
 		victory_points = {
 			9979 15
 		}

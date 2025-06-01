@@ -12,7 +12,9 @@ tags={
 }
 replace_path="map/strategicregions"
 replace_path="map"
+replace_path="common/characters"
+replace_path="common/countries"
 replace_path="history/states"
 replace_path="history/units"
 name="World Ablaze: The Last Hope"
-supported_version="1.16.x"
+supported_version="1.16.*"

@@ -8,9 +8,9 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = GLC
 		add_core_of = SPR
-		add_core_of = GAL
+		add_core_of = GLC
 		victory_points = {
 			758 5
 		}
@@ -28,7 +28,7 @@ state={
 	provinces={
 		729 758 3761 6764 6955 11692 11710 
 	}
-	manpower=244850
+	manpower=933426
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

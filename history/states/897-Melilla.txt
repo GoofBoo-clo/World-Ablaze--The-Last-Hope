@@ -7,15 +7,16 @@ state={
 	provinces = { 13230 }
 	
 	history = {
-		owner = SPR
+		owner = ALA
 		add_claim_by = SPR
 		add_core_of = MOR
+		add_core_of = ALA
 		buildings = {
 			infrastructure = 2
 			13230 = { naval_base = 1 }
 		}
 		victory_points = { 13230 2 }
 	}
-	manpower=84000
+	manpower=84002
 	buildings_max_level_factor=1.000
 }

@@ -1,0 +1,15 @@
+characters = {
+	CAT_puchdemon = {
+		name = CAT_puchdemon
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAT/portrait_CAT_puchdemon.dds"
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2055.10.20"
+			desc = "CAT_pucdemon_desc"
+		}
+	}
+}

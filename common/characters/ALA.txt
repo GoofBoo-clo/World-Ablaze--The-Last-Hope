@@ -1,0 +1,15 @@
+characters = {
+	ALA_anbari = {
+		name = ALA_anbari
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ALA/portrait_ALA_anbari.dds"
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2055.10.20"
+			desc = "ALA_anbari_desc"
+		}
+	}
+}

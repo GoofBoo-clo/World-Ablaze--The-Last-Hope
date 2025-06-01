@@ -1,6 +1,10 @@
 ﻿capital = 41 # Madrid
 
 oob = "SPR_1936"
+set_autonomy = {
+    target = GLC
+    autonomy_state = autonomy_puppet
+}
 
 if = {
 	limit = { has_dlc = "Man the Guns" }

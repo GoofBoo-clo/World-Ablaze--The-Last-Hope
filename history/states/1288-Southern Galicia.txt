@@ -5,15 +5,15 @@ state={
 	provinces={
 		6734 9686 9689 11675 11677 11840 
 	}
-	manpower=293642
+	manpower=928324
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category = suburb
 
 	history = {
-		owner = SPR
+		owner = GLC
 		add_core_of = SPR
-		add_core_of = GAL
+		add_core_of = GLC
 		victory_points = {
 			6734 5
 		}
