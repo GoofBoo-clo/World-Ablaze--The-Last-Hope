@@ -10,6 +10,7 @@ state = {
 		add_core_of = CAT
 		victory_points = { 6906 20 }	#Valencia
 		victory_points = { 6817 3 }
+		victory_points = { 962 3 }
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

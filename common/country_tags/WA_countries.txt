@@ -1,1 +1,1 @@
-ALA = "countries/ALA - Al-Andalus.txt"
+ALA = "countries/Al Andalus.txt"

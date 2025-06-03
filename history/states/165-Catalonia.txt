@@ -13,6 +13,7 @@ state={
 		victory_points = { 6927 3 }
 		victory_points = { 6812 5 }
 		victory_points = { 6836 3 }
+		victory_points = { 6865 3 }
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

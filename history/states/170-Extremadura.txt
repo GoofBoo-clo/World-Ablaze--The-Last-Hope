@@ -7,8 +7,9 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = ALA
 		add_core_of = SPR
+		add_claim_by = ALA
 		victory_points = { 11851 3 }
 		victory_points = { 9925 2 }
 		buildings = {
@@ -18,7 +19,7 @@ state={
 	}
 
 	provinces={
-		809 931 985 3930 3986 6866 6902 6948 6954 9877 9925 11780 11798 11851 
+		809 931 3930 6866 6902 6948 6954 9877 9925 11798 11851
 	}
 	manpower=1282253
 	buildings_max_level_factor=1.000
