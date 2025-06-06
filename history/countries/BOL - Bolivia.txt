@@ -47,7 +47,7 @@ IF = {
 		has_dlc = "Trial of Allegiance"
 	}
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = democracy
 		last_election = "1934.11.11"
 		election_frequency = 72
 		elections_allowed = yes

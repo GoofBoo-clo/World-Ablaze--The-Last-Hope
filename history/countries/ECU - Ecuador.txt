@@ -99,7 +99,7 @@ set_convoys = 5
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = democracy
 	last_election = "1933.12.15"
 	election_frequency = 84
 	elections_allowed = yes

@@ -277,7 +277,7 @@ if = {
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = democracy
 	last_election = "1932.9.18"
 	election_frequency = 48
 	elections_allowed = yes
@@ -291,7 +291,7 @@ set_popularities = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = democracy
 		last_election = "1936.9.20"
 		election_frequency = 48
 		elections_allowed = yes

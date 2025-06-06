@@ -585,7 +585,7 @@ IF = {
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = democracy
 	last_election = "1936.1.1" #Was 1932.11.27 but changed to allow for Government Resigns focus to simulate this election.
 	election_frequency = 48
 	elections_allowed = yes
@@ -599,7 +599,7 @@ set_popularities = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = democracy
 		last_election = "1939.4.2"
 		election_frequency = 48
 		elections_allowed = yes

@@ -1,5 +1,18 @@
 characters={
 
+	SPR_pedro_sanches={
+		name=SPR_pedro_sanches
+		portraits={
+			civilian={
+				large="gfx/leaders/SPR/portrait_SPR_pedro_sanches.dds"
+			}
+		}
+	country_leader={
+			ideology=social_nationalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
 	SPR_niceto_alcala_zamora={
 		instance = {
 			allowed = {
@@ -12,7 +25,7 @@ characters={
 				}
 			}
 			country_leader={
-				ideology=conservatism
+				ideology=social_nationalism
 				traits={ indecisive }
 				expire="1965.1.1.1"
 				id=-1
@@ -29,7 +42,7 @@ characters={
 				}
 			}
 			country_leader={
-				ideology=conservatism
+				ideology=social_nationalism
 				expire="1965.1.1.1"
 				id=-1
 			}

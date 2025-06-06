@@ -789,14 +789,14 @@ set_war_support = 0.3
 
 # Setup German Politics
 set_politics = {
-	ruling_party = fascism
+	ruling_party = nazi
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	democratic = 35
-	fascism = 40
+	nazi = 40
 	communism = 10
 	neutrality = 15
 }

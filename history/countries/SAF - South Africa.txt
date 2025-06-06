@@ -182,7 +182,7 @@ if = {
 
 set_convoys = 25
 set_politics = {
-	ruling_party = democratic
+	ruling_party = democracy
 	last_election = "1933.5.17"
 	election_frequency = 60
 	elections_allowed = yes
@@ -218,7 +218,7 @@ recruit_character = SAF_abram_fischer
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = democracy
 		last_election = "1938.5.18"
 		election_frequency = 60
 		elections_allowed = yes

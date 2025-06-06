@@ -144,7 +144,7 @@ IF = {
 	add_dynamic_modifier = { modifier = BRA_aftermath_of_the_coup }
 
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = democracy
 		last_election = "1934.7.17"
 		election_frequency = 48
 		elections_allowed = yes
@@ -234,7 +234,7 @@ IF = {
 		}
 	}
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = democracy
 		last_election = "1934.7.17"
 		election_frequency = 48
 		elections_allowed = yes

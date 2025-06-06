@@ -244,7 +244,7 @@ set_convoys = 30
 set_stability = 0.65
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = democracy
 	last_election = "1933.10.16"
 	election_frequency = 36
 	elections_allowed = yes
@@ -257,7 +257,7 @@ set_popularities = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = democracy
 		last_election = "1936.10.19"
 		election_frequency = 36
 		elections_allowed = yes

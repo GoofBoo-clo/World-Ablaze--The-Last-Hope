@@ -13,6 +13,7 @@ tags={
 replace_path="map/strategicregions"
 replace_path="map"
 replace_path="common/characters"
+replace_path="common/ideologies"
 replace_path="common/countries"
 replace_path="history/states"
 replace_path="history/units"

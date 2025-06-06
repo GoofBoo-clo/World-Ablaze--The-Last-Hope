@@ -201,19 +201,19 @@ if = {
 		project = sp:sp_air_radar
 	}
 }
-
+#switch to 2030
 set_convoys = 50
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	fascism = 10
-	communism = 10
-	neutrality = 60
-	democratic = 20
+	communist = 10
+	nationalism = 40
+	conservatism = 40
 }
 
 1939.1.1 = {
@@ -235,7 +235,7 @@ if = {
 	limit = {
 		has_dlc = "La Resistance"
 	}
-
+	recruit_character = POR_marcelo_de_sousa
 	recruit_character = POR_antonio_de_oliveira_salazar
 	recruit_character = POR_bento_goncalves
 	recruit_character = POR_rolao_preto

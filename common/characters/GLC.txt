@@ -7,7 +7,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = conservatism
+			ideology = liberal
 			expire = "2055.10.20"
 			desc = "GLC_feihoo_desc"
 		}

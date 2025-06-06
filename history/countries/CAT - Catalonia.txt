@@ -68,14 +68,14 @@ set_convoys = 20
 	}
 }
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = nationalism
 	last_election = "1936.1.1" #change to 2030 
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 50
+	democracy = 50
 	fascism = 3
-	communism = 47
+	nationalism = 47
 }
 

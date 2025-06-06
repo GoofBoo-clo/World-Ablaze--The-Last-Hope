@@ -7,7 +7,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = centrism
+			ideology = right_populism 
 			expire = "2055.10.20"
 			desc = "CAT_pucdemon_desc"
 		}

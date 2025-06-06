@@ -281,7 +281,7 @@ set_country_flag = monroe_doctrine
 set_convoys = 50
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = democracy
 	last_election = "1932.10.30"
 	election_frequency = 72  #but 4 years after this one in 1938.
 	elections_allowed = yes
@@ -422,7 +422,7 @@ set_popularities = {
 # Setting up 1939 Politics
 1939.1.1 = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = democracy
 		last_election = "1938.10.25"
 		election_frequency = 48
 		elections_allowed = yes

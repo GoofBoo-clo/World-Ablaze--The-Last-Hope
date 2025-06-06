@@ -394,7 +394,7 @@ if = {
 		has_dlc = "Arms Against Tyranny"
 	}
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = democracy
 		last_election = "1935.10.22"
 		election_frequency = 42
 		elections_allowed = yes
@@ -419,7 +419,7 @@ if = {
 		neutrality = 3
 	}
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = democracy
 		last_election = "1935.10.22"
 		election_frequency = 48
 		elections_allowed = yes
@@ -432,7 +432,7 @@ if = {
 			has_dlc = "Arms Against Tyranny"
 		}
 		set_politics = {
-			ruling_party = democratic
+			ruling_party = democracy
 			last_election = "1939.4.3"
 			election_frequency = 42
 			elections_allowed = yes
@@ -443,7 +443,7 @@ if = {
 			NOT = { has_dlc = "Arms Against Tyranny" }
 		}
 		set_politics = {
-			ruling_party = democratic
+			ruling_party = democracy
 			last_election = "1939.10.22"
 			election_frequency = 48
 			elections_allowed = yes
