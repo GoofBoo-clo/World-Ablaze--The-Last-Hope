@@ -1,0 +1,23 @@
+state = {
+	id = 1438
+	name = "STATE_1438"
+	manpower = 108506
+	state_category = rural
+
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		add_core_of = FRA
+		victory_points = { 15231 3 }
+		victory_points = { 15232 5 }		
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			15232 = { naval_base = 3 }
+		}
+	}
+	
+	provinces = {
+		15231 15232
+	}
+}

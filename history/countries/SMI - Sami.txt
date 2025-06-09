@@ -66,13 +66,13 @@ set_convoys = 20
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	neutrality = 78
+	authoritarianism = 78
 	democratic = 10
 	fascism = 2
 	communism = 10
@@ -93,7 +93,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = SMI_neutrality_council
+	name = SMI_authoritarianism_council
 	picture = GFX_portrait_SMI_sami_council
 	expire = "1965.1.1"
 	ideology = centrism

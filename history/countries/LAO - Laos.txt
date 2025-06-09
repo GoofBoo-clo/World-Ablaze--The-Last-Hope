@@ -99,7 +99,7 @@ if = {
 set_popularities = {
 	democratic = 25
 	communism = 35
-	neutrality = 40
+	authoritarianism = 40
 }
 
 create_country_leader = {

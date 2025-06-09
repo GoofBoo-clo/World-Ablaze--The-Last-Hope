@@ -46,7 +46,7 @@ set_convoys = 20
 	}
 }
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarianism
 	last_election = "1936.1.1"
 	elections_allowed = no
 }
@@ -54,7 +54,7 @@ set_popularities = {
 	democratic = 38
 	fascism = 6
 	communism = 6
-	neutrality = 50
+	authoritarianism = 50
 }
 
 create_country_leader = {

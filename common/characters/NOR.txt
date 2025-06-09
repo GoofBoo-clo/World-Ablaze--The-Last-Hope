@@ -600,7 +600,7 @@ characters={
 				}
 			}
 			available = {
-				has_government = neutrality
+				has_government = 
 			}
 			traits  = {
 				 NOR_aristocratic_industrialist
@@ -738,7 +738,7 @@ characters={
 				has_country_flag = NOR_trotsky_embraced
 				NOT = { has_completed_focus = NOR_compromise_with_the_nkp } 
 				NOT = { has_government = fascism } 
-				NOT = { has_government = neutrality }
+				NOT = { has_government =  }
 				NOR_trotsky_not_in_sov = yes 
 				NOR_trotsky_not_in_mex = yes #Yes, I know this is bullshit but it's all for the tooltip
 			}

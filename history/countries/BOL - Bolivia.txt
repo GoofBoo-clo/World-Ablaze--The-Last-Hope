@@ -53,7 +53,7 @@ IF = {
 		elections_allowed = yes
 	}
 	set_popularities = {
-		neutrality = 32
+		authoritarianism = 32
 		democratic = 54
 		communism = 12
 		fascism = 2
@@ -81,14 +81,14 @@ IF = {
 
 	ELSE = {
 		set_politics = {
-			ruling_party = neutrality
+			ruling_party = authoritarianism
 			last_election = "1934.11.11"
 			election_frequency = 72
 			elections_allowed = yes
 		}
 
 		set_popularities = {
-			neutrality = 100
+			authoritarianism = 100
 		}
 
 		recruit_character = BOL_jose_luis_tejada_sorzano
@@ -184,13 +184,13 @@ set_country_flag = monroe_doctrine
 	}
 
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = authoritarianism
 		last_election = "1934.11.11"
 		election_frequency = 72
 		elections_allowed = yes
 	}
 
 	set_popularities = {
-		neutrality = 100
+		authoritarianism = 100
 	}
 }

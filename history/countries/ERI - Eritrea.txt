@@ -87,5 +87,5 @@ set_popularities = {
 	democratic = 55
 	fascism = 15
 	communism = 5
-	neutrality = 25
+	authoritarianism = 25
 }

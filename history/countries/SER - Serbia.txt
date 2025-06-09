@@ -162,7 +162,7 @@ recruit_character = SER_mt
 set_convoys = 0
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 36
 	elections_allowed = yes
@@ -171,12 +171,12 @@ set_popularities = {
 	democratic = 20
 	fascism = 30
 	communism = 20
-	neutrality = 30
+	authoritarianism = 30
 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = authoritarianism
 		last_election = "1939.1.1"
 		election_frequency = 36
 		elections_allowed = yes

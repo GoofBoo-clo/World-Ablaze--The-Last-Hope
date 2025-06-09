@@ -136,7 +136,7 @@ IF = {
 		complete_national_focus = ICE_expand_the_fishing_industry
 		complete_national_focus = ICE_the_kingdom_of_iceland
 		complete_national_focus = ICE_hydroelectric_power
-		complete_national_focus = ICE_declare_absolute_neutrality
+		complete_national_focus = ICE_declare_absolute_authoritarianism
 		complete_national_focus = ICE_infrastructure_projects
 		complete_national_focus = ICE_gardhur_airfield
 		complete_national_focus = ICE_the_icelandic_police_force
@@ -266,7 +266,7 @@ set_popularities = {
 		democratic = 84
 		fascism = 2
 		communism = 2
-		neutrality = 12
+		authoritarianism = 12
 	}
 }
 

@@ -185,7 +185,7 @@ IF = {
 	}
 
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = authoritarianism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
@@ -195,7 +195,7 @@ IF = {
 		fascism = 10
 		communism = 0
 		democratic = 15
-		neutrality = 75
+		authoritarianism = 75
 	}
 	set_war_support = 0.1
 
@@ -257,7 +257,7 @@ IF = {
 	recruit_character = AFG_muhammed_nowroz
 	
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = authoritarianism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
@@ -266,7 +266,7 @@ IF = {
 	set_popularities = {
 		fascism = 15
 		communism = 10
-		neutrality = 75
+		authoritarianism = 75
 	}
 
 	### Techs ###
@@ -301,7 +301,7 @@ IF = {
 		complete_national_focus = AFG_expand_karakul_lambskin_industry
 		complete_national_focus = AFG_reform_2
 		complete_national_focus = AFG_secure_dynasty
-		complete_national_focus = AFG_maintain_neutrality
+		complete_national_focus = AFG_maintain_authoritarianism
 		#1939
 		complete_national_focus = AFG_qargha_dam
 		complete_national_focus = AFG_adopt_nufus
@@ -373,7 +373,7 @@ IF = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = authoritarianism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
@@ -381,7 +381,7 @@ IF = {
 	set_popularities = {
 		fascism = 20
 		communism = 10
-		neutrality = 70
+		authoritarianism = 70
 	}
 }
 

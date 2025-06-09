@@ -128,7 +128,7 @@ recruit_character = PAK_nt
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarianism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
@@ -137,7 +137,7 @@ set_popularities = {
 	democratic = 17
 	fascism = 2
 	communism = 1
-	neutrality = 80
+	authoritarianism = 80
 }
 
 

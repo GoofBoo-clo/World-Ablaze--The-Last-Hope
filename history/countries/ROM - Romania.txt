@@ -147,7 +147,7 @@ if = {
 	give_guarantee = TUR
 	give_guarantee = YUG
 }
-add_ideas = neutrality_idea
+add_ideas = authoritarianism_idea
 
 #Kick off kings crazy life
 if = {
@@ -357,12 +357,12 @@ set_popularities = {
 	democratic = 60
 	fascism = 18
 	communism = 2
-	neutrality = 20
+	authoritarianism = 20
 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = authoritarianism
 		last_election = "1939.7.15"
 		election_frequency = 48
 		elections_allowed = no
@@ -371,7 +371,7 @@ set_popularities = {
 		democratic = 20
 		fascism = 35
 		communism = 2
-		neutrality = 43
+		authoritarianism = 43
 	}
 }
 ### VARIANTS ###

@@ -798,7 +798,7 @@ set_popularities = {
 	democratic = 35
 	nazi = 40
 	communism = 10
-	neutrality = 15
+	authoritarianism = 15
 }
 
 # Wowow nice faction

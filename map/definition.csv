@@ -15229,3 +15229,7 @@
 15228;4;229;73;land;false;desert;6
 15229;49;193;227;lake;false;lakes;6
 15230;71;139;155;lake;false;lakes;6
+15231;255;79;175;land;true;forest;1
+15232;227;255;153;land;true;forest;1
+15233;255;147;187;land;false;plains;1
+15234;183;255;145;land;false;forest;1 

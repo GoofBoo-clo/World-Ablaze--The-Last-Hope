@@ -81,7 +81,7 @@ create_country_leader = {
 
 set_popularities = {
 	democratic = 33
-	neutrality = 33
+	authoritarianism = 33
 	communism = 34
 }
 

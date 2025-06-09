@@ -89,7 +89,7 @@ set_popularities = {
 	democratic = 40
 	communism = 40
 	fascism = 10
-	neutrality = 10
+	authoritarianism = 10
 }
 
 recruit_character = GEO_noe_zhordania

@@ -127,7 +127,7 @@ if = {
 	    original_tag = SPR
 	    set_country_flag = SPR_carlist_spain_flag
 	    set_politics = {
-			ruling_party = neutrality
+			ruling_party = authoritarianism
 		}
 		set_cosmetic_tag = SPR_carlist_spain
 		set_research_slots = 3
@@ -137,7 +137,7 @@ if = {
 	    original_tag = SPR
 	    set_country_flag = SPR_anarchist_spain_flag
 	    set_politics = {
-			ruling_party = neutrality
+			ruling_party = authoritarianism
 		}
 		set_cosmetic_tag = SPR_anarchist_spain
 		set_research_slots = 3
@@ -428,7 +428,7 @@ set_stability = 0.5
 		}
 		set_popularities = {
 			democratic = 17
-			neutrality = 38
+			authoritarianism = 38
 			fascism = 45
 		}
 	}

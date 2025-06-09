@@ -416,7 +416,7 @@ if = {
 		democratic = 94
 		fascism = 1
 		communism = 2
-		neutrality = 3
+		authoritarianism = 3
 	}
 	set_politics = {
 		ruling_party = democracy

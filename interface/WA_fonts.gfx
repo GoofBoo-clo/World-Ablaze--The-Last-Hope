@@ -1,8 +1,8 @@
 bitmapfonts = {
 
 	bitmapfont = {
-		name = "roboto_medium"
-		path = "gfx/fonts/RobotoCondensed-Medium"
+		name = "WA_rus"
+		path = "gfx/fonts/WarfaceRegular20_rus"
 		color = 0xffb2c9c2
 		textcolors = {
 			W = { 255 255 255 } # White
@@ -33,18 +33,24 @@ bitmapfonts = {
 	   }
 	}
 		bitmapfont = {
-			name = "WarfaceRegular22"
-			path = "gfx/fonts/WarfaceRegular22_font"   
+			name = "wr_24"
+			path = "gfx/fonts/WarfaceRegular24_font"   
 			color = 0xffffffff
 		}
 		
 		bitmapfont = {
-			name = "WarfaceRegular20"
-			path = "gfx/fonts/WarfaceRegular20_font"
+			name = "wr_24_rus"
+			path = "gfx/fonts/WarfaceRegular20"
 			fontfiles = {
-				"gfx/fonts/WarfaceRegular20_font"
-				"gfx/fonts/WarfaceRegular20_font_rus"
+				"gfx/fonts/WarfaceRegular20"
+				"gfx/fonts/WarfaceRegular20"
 			}			
 			color = 0xffffffff
 		}
+		bitmapfont = {
+			name = "wr_36"
+			path = "gfx/fonts/WarfaceRegular36"   
+			color = 0xffffffff
+		}
+		
 }

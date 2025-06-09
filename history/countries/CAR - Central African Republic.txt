@@ -78,7 +78,7 @@ recruit_character = CAR_acgs
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -88,5 +88,5 @@ set_popularities = {
 	democratic = 25
 	fascism = 20
 	communism = 5
-	neutrality = 50
+	authoritarianism = 50
 }

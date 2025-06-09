@@ -56,7 +56,7 @@ IF = {
 	set_popularities = {
 		democratic = 55
 		communism = 30
-		neutrality = 10
+		authoritarianism = 10
 		fascism = 5
 	}
 	add_timed_idea = {
@@ -261,7 +261,7 @@ set_country_flag = monroe_doctrine
 	set_popularities = {
 		democratic = 20
 		communism = 30
-		neutrality = 50
+		authoritarianism = 50
 	}
 	
 }

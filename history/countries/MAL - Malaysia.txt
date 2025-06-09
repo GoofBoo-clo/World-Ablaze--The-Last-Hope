@@ -119,7 +119,7 @@ if = {
 set_popularities = {
 	democratic = 33
 	communism = 33
-	neutrality = 34
+	authoritarianismianism = 34
 }
 
 

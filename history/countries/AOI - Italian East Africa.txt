@@ -108,7 +108,7 @@ set_popularities = {
 	democratic = 15
 	fascism = 60
 	communism = 15
-	neutrality = 10
+	authoritarianism = 10
 }
 
 recruit_character = AOI_prince_amedeo 

@@ -54,7 +54,7 @@ set_convoys = 5
 	}
 }
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -63,5 +63,5 @@ set_popularities = {
 	democratic = 40
 	fascism = 1
 	communism = 9
-	neutrality = 50
+	authoritarianism = 50
 }

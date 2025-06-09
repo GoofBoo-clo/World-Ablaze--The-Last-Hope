@@ -251,7 +251,7 @@ if = {
 	add_command_power = 100
 
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = authoritarianism
 		last_election = "1939.2.8"
 		election_frequency = 60
 		elections_allowed = yes
@@ -420,13 +420,13 @@ if = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarianism
 	last_election = "1935.2.8"
 	elections_allowed = yes
 }
 set_popularities = {
 	democratic = 6
-	neutrality = 94
+	authoritarianism = 94
 }
 
 set_convoys = 20

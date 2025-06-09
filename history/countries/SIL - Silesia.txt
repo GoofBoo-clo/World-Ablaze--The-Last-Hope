@@ -208,7 +208,7 @@ set_popularities = {
 	democratic = 50
 	fascism = 5
 	communism = 35
-	neutrality = 10
+	authoritarianism = 10
 }
 
 recruit_character = SIL_jozsef_kozdon

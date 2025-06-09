@@ -84,7 +84,7 @@ set_popularities = {
 	democratic = 72
 	fascism = 2
 	communism = 14
-	neutrality = 12
+	authoritarianism = 12
 }
 
 recruit_character = BRM_archibald_cochrane

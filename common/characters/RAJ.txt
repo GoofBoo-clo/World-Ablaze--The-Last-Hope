@@ -112,7 +112,7 @@ characters={
 					small = GFX_portrait_RAJ_subhas_chandra_bose_military_small #small="GFX_idea_generic_political_advisor_india_1"
 				}
 				civilian ={
-					large = GFX_portrait_RAJ_subhas_chandra_bose #Can become country leader (Communism -> Stalinism) (Fascism -> Nazism) (Neutrality -> Centrism)
+					large = GFX_portrait_RAJ_subhas_chandra_bose #Can become country leader (Communism -> Stalinism) (Fascism -> Nazism) ( -> Centrism)
 					small = GFX_portrait_RAJ_subhas_chandra_bose_civilian_small
 				}
 			}
