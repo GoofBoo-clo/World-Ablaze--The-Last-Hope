@@ -11,7 +11,7 @@ state={
 		victory_points = { 7780 1 }	#Colorado Springs
 	}
 	provinces={
-		10588 13969 13421 7780 12642 11772 14855 14858
+		10588 13969 13421 7780 12642 11772 14855 14858 15303 15304 
 	}
 	manpower=1192966
 	buildings_max_level_factor=1.000

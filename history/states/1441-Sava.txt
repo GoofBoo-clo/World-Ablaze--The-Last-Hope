@@ -1,0 +1,20 @@
+state = {
+	id = 1441
+	name = "STATE_1441"
+	manpower = 1007809
+	state_category = rural
+
+	history = {
+		owner = MAD
+		add_core_of = MAD
+		victory_points = { 15286 3 } #Antalaha
+		victory_points = { 5222 5 }	#Sambava
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		15286 5222 15291
+	}
+}

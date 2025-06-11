@@ -293,7 +293,6 @@ categories =  {
 		
 		truck_attrition_factor = 0.5
 	}
-	
 	###USA###
 	
 	los_angeles = {

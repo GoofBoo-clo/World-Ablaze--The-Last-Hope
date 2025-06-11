@@ -2,7 +2,7 @@ state = {
 	id = 1437
 	name = "STATE_1437"
 	manpower = 3268700
-	state_category = urban
+	state_category = megalopolis
 
 	history = {
 		owner = ENG

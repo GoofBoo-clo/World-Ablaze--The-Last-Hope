@@ -1,0 +1,20 @@
+state = {
+	id = 1440
+	name = "STATE_1440"
+	manpower = 110080
+	state_category = rural
+
+	history = {
+		owner = MAD
+		add_core_of = MAD
+		victory_points = { 15246 3 }    #Ankilibe
+		victory_points = { 15243 5 }	#Tulear	
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		15246 15243
+	}
+}

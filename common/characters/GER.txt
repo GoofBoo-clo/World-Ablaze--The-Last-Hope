@@ -20,7 +20,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = nazi_esoteric_sybtype
+			ideology = nazi_subtype
 			traits = { GER_der_fuhrer }
 			expire = "1965.1.1.1"
 			id = -1

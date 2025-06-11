@@ -24,7 +24,7 @@ guiTypes = {
 		instantTextboxType = {
 			name = "setup_title"
 			position = { x = 40 y = 25 }
-			font = "hoi_24header"
+			font = "wr_36"
 			borderSize = {x = 0 y = 0}
 			text = "RAIDS_WINDOW_TITLE"
 			maxWidth = 160
@@ -454,7 +454,7 @@ guiTypes = {
 			maxHeight = 29
 			format = centre
 			orientation = center_up
-			font = "hoi_30header"
+			font = "wr_36"
 			fixedsize = yes
 		}
 
@@ -465,7 +465,7 @@ guiTypes = {
 			maxHeight = 37
 			orientation = center_up
 			format = centre
-			font = "hoi_24header"
+			font = "wr_36"
 			fixedsize = yes
 		}
 
@@ -476,7 +476,7 @@ guiTypes = {
 			maxWidth = 287
 			maxHeight = 30
 			format = centre
-			font = "hoi_24header"
+			font = "wr_36"
 			pdx_tooltip = "tooltip_additional_equipment_header"
 		}
 
@@ -526,7 +526,7 @@ guiTypes = {
 			maxHeight = 30
 
 			format = centre
-			font = "hoi_24header"
+			font = "wr_36"
 		}
 
 		instantTextboxType = {
@@ -536,7 +536,7 @@ guiTypes = {
 			maxWidth = 287
 			maxHeight = 30
 			format = centre
-			font = "hoi_24header"
+			font = "wr_36"
 		}
 
 		instantTextboxType = {
@@ -546,7 +546,7 @@ guiTypes = {
 			maxWidth = 287
 			maxHeight = 30
 			format = centre
-			font = "hoi_24header"
+			font = "wr_36"
 		}
 
 		instantTextboxType = {
@@ -575,7 +575,7 @@ guiTypes = {
 			maxWidth = 200
 			maxHeight = 30
 			format = centre
-			font = "hoi_24header"
+			font = "wr_36"
 		}
 
 		instantTextboxType = {
@@ -731,7 +731,7 @@ guiTypes = {
 			maxHeight = 30
 			format = center
 			orientation = center_up
-			font = "hoi_30header"
+			font = "wr_36"
 			fixedsize = yes
 		}
 
@@ -760,7 +760,7 @@ guiTypes = {
             fixedsize = yes
 			orientation = center_up
 			format = center
-			font = "hoi_24header"
+			font = "wr_36"
 		}
 
 		instantTextboxType = {
