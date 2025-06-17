@@ -1,0 +1,89 @@
+characters = {
+
+
+ ######   #######  ##     ## ##    ## ######## ########  ##    ##    ##       ########    ###    ########  ######## ########   ######  
+##    ## ##     ## ##     ## ###   ##    ##    ##     ##  ##  ##     ##       ##         ## ##   ##     ## ##       ##     ## ##    ## 
+##       ##     ## ##     ## ####  ##    ##    ##     ##   ####      ##       ##        ##   ##  ##     ## ##       ##     ## ##       
+##       ##     ## ##     ## ## ## ##    ##    ########     ##       ##       ######   ##     ## ##     ## ######   ########   ######  
+##       ##     ## ##     ## ##  ####    ##    ##   ##      ##       ##       ##       ######### ##     ## ##       ##   ##         ## 
+##    ## ##     ## ##     ## ##   ###    ##    ##    ##     ##       ##       ##       ##     ## ##     ## ##       ##    ##  ##    ## 
+ ######   #######   #######  ##    ##    ##    ##     ##    ##       ######## ######## ##     ## ########  ######## ##     ##  ######  
+
+    MAT_george_droid = {
+        name = MAT_george_droid
+        portraits = {
+            civilian = {
+                large = GFX_portrait_MAT_george_droid
+            }
+        }
+        country_leader = {
+            ideology = transhumanism
+            traits = { icon_of_posthumanity }
+            id = g_droid
+        }
+    }
+
+########   #######  ##       #### ######## ####  ######     ###    ##             ###    ########  ##     ## ####  ######   #######  ########   ######  
+##     ## ##     ## ##        ##     ##     ##  ##    ##   ## ##   ##            ## ##   ##     ## ##     ##  ##  ##    ## ##     ## ##     ## ##    ## 
+##     ## ##     ## ##        ##     ##     ##  ##        ##   ##  ##           ##   ##  ##     ## ##     ##  ##  ##       ##     ## ##     ## ##       
+########  ##     ## ##        ##     ##     ##  ##       ##     ## ##          ##     ## ##     ## ##     ##  ##   ######  ##     ## ########   ######  
+##        ##     ## ##        ##     ##     ##  ##       ######### ##          ######### ##     ##  ##   ##   ##        ## ##     ## ##   ##         ## 
+##        ##     ## ##        ##     ##     ##  ##    ## ##     ## ##          ##     ## ##     ##   ## ##    ##  ##    ## ##     ## ##    ##  ##    ## 
+##         #######  ######## ####    ##    ####  ######  ##     ## ########    ##     ## ########     ###    ####  ######   #######  ##     ##  ######
+
+    MAT_dan_bongino = {
+        name = MAT_dan_bongino
+        portraits = {
+            civilian = {
+                large = GFX_portrait_MAT_dan_bongino
+                small = GFX_portrait_MAT_dan_bongino_small
+            }
+        }
+        advisor = {
+            slot = political_advisor
+            idea_token = dan_bongino
+            allowed = { original_tag = MAT }
+            traits = { charismatic_propagandist
+            }
+            ai_will_do = { factor = 3 }
+        }
+    }
+
+    MAT_mustafa_suleyman = {
+        name = MAT_mustafa_suleyman
+        portraits = {
+            civilian = {
+                large = GFX_portrait_MAT_mustafa_suleyman
+                small = GFX_portrait_MAT_mustafa_suleyman_small
+            }
+        }
+        advisor = {
+            slot = political_advisor
+            idea_token = mustafa_suleyman
+            allowed = { original_tag = MAT }
+            traits = {
+                ai_visionary
+            }
+            ai_will_do = { factor = 2 }
+        }
+    }
+
+    MAT_andy_rubin = {
+        name = MAT_andy_rubin
+        portraits = {
+            civilian = {
+                large = GFX_portrait_MAT_andy_rubin
+                small = GFX_portrait_MAT_andy_rubin_small
+            }
+        }
+        advisor = {
+            slot = political_advisor
+            idea_token = andy_rubin
+            allowed = { original_tag = MAT }
+            traits = {
+                automation_pioneer
+            }
+            ai_will_do = { factor = 2 }
+        }
+    }
+}
