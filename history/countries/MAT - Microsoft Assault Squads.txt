@@ -1,0 +1,54 @@
+capital = 359
+oob = "MAT_1936"
+
+set_research_slots = 4
+set_stability = 0.95
+set_war_support = 0.0
+
+recruit_character = MAT_george_droid
+recruit_character = MAT_dan_bongino
+recruit_character = MAT_mustafa_suleyman
+recruit_character = MAT_andy_rubin
+
+set_politics = {
+    ruling_party = progressivism
+    last_election = "1935.1.1" #switch to 2030
+    election_frequency = 48
+    elections_allowed = no
+}
+	set_technology = {
+		tech_support = 1
+		tech_recon = 1
+		support_weapons = 1
+		gw_artillery = 1
+
+		#doctrines
+		air_superiority = 1
+		grand_battle_plan = 1
+		trench_warfare = 1
+		fleet_in_being = 1
+		battlefleet_concentration = 1
+		convoy_sailing = 1
+
+		#electronics
+		electronic_mechanical_engineering = 1
+		radio = 1
+		mechanical_computing = 1
+		computing_machine = 1
+
+		#industry
+		basic_machine_tools = 1
+		improved_machine_tools = 1
+		advanced_machine_tools = 1
+		construction1 = 1
+		construction2 = 1
+		dispersed_industry = 1
+		dispersed_industry2 = 1
+	}
+	complete_special_project = {
+		project = sp:sp_air_radar
+	}
+set_popularities = {
+    progressivism = 80
+    democracy = 20
+}
