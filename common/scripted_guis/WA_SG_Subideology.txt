@@ -1,0 +1,13 @@
+scripted_gui = {
+    WA_countrypoliticswiev_subieology_text = {
+        context_type = player_context
+        window_name = "countrypoliticsview_subideology_text"
+        parent_window_token = politics_tab
+    }
+
+    WA_countrydiplomacyview_subideology_text = {
+        context_type = selected_country_context
+        window_name = "countrydiplomacyview_subideology_text"
+        parent_window_token = selected_country_view_diplomacy
+    }
+}
