@@ -364,12 +364,22 @@ conservatism = {
 	liberalism = {
 
 		types = {
-			centrism = {
+			liberalism_subtype = {
 			}
-			solidarism = { can_be_randomly_selected = no }
-			social_democrat = { can_be_randomly_selected = no }
-			democracy_socialism = { can_be_randomly_selected = no }
-			christian_democracy = { can_be_randomly_selected = no }
+			corporatocracy = {
+			}
+			social_liberalism = {
+			}
+			national_liberalism = {
+			}
+			libertarianism = {
+			}
+			anarcho_capitalism = {
+			}
+			anarchism = {
+			}
+			anarchy = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -459,12 +469,12 @@ conservatism = {
 	}
 
 	########################################
-    #              SOCIALISM              #
+    #              SOCIALISM               #
 	########################################
 
 	socialism = {
 		types = {
-			socialism = {
+			socialism_subtype = {
 			}
 			avangard_anarchism = { can_be_randomly_selected = no }
 			left_populism = { can_be_randomly_selected = no }
