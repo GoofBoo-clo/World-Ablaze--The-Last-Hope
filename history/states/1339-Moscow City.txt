@@ -2,17 +2,17 @@ state={
 	id=1339
 	name="STATE_1339"
 	provinces={
-		6348 6380 6414 14865
+		6380 6414 14865
 	}
 	
 	history={
-		owner = SOV
-		add_core_of = SOV
+		owner = MET
+		add_core_of = MET
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 7
-			arms_factory = 2
-			anti_air_building = 5
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			anti_air_building = 3
 		}
 		victory_points = {
 			6380 50 
@@ -25,7 +25,7 @@ state={
 		}
 
 	}
-	manpower=13104177
+	manpower=20537
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 	local_supplies=0.000
